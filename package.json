@@ -1,0 +1,23 @@
+{
+  "name": "systemd-interface",
+  "version": "0.0.1",
+  "description": "a simple interface to query systemd",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdumetz/node-systemd-interface.git"
+  },
+  "keywords": [
+    "systemd",
+    "interface"
+  ],
+  "author": "Sebastien DUMETZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdumetz/node-systemd-interface/issues"
+  },
+  "homepage": "https://github.com/sdumetz/node-systemd-interface#readme"
+}
